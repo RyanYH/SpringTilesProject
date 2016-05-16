@@ -14,12 +14,15 @@
 				<td colspan=2 height=100>
 					<tiles:insertAttribute name="header"></tiles:insertAttribute>
 				</td>
+			<tr>
 				<td width=200 height=400>
 					<tiles:insertAttribute name="nav"></tiles:insertAttribute>
-				</td>
+			</td>
 				<td width=600 height=400>
 					<tiles:insertAttribute name="body"></tiles:insertAttribute>
 				</td>
+			</tr>
+			<tr>
 				<td colspan=2 height=100>
 					<tiles:insertAttribute name="footer"></tiles:insertAttribute>
 				</td>

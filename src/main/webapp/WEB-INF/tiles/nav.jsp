@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center>
-		<a href="notice.do">공지사항</a>
+		<a href="notice.do">공지사항</a><br/>
 		<a href="board.do">게시판</a>
 	</center>
 </body>

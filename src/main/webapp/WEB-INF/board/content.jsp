@@ -8,8 +8,8 @@
 </head>
 <body>
 	<center>
-		<h1>Board 영역</h1>
-		<a href="content.do">내용보기</a>
+		<h1>게시판 내용보기</h1>
+		<a href="board.do">목록</a>
 	</center>
 </body>
 </html>
